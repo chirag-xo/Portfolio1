@@ -143,7 +143,7 @@ export default function Results() {
           <a href="https://www.instagram.com/deceramica/" target="_blank" rel="noreferrer" className="flagship-item">
             <div className="fi-left">
               <span className="fi-num">01</span>
-              <h3 className="fi-name">Deceramica</h3>
+              <h3 className="fi-name">De Ceramica</h3>
             </div>
             <div className="fi-right">
               <p className="fi-desc">Premium ceramic tiles &amp; surfaces. Architectural-grade porcelain.</p>
